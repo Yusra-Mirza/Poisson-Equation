@@ -19,8 +19,6 @@ The goal is to compute the potential on a 2D grid and **visualize the results** 
 * Visualize the computed potentials for verification.
 * Compare convergence speed and efficiency of the three methods.
 
-3. Visualize the output using Python, or any plotting tool.
-
 
 ## 📊 Visualization tools
 
