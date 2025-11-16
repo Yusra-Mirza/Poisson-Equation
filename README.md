@@ -43,8 +43,8 @@ The project compares the following:
 * C Compiler (GCC recommended)
 * Python for visualization
 
-CONTRIBUTORS:Yusra,Saloni Gupta,Rituja Sinha,Basusdha Mahapatra,Shivam Pilania,Shubh Vaish,Sachin Shukla,Arpit Negi,Mustufa,Shivani Kumari,Aryan Khanna
-
+## CONTRIBUTORS:
+* Yusra, Saloni Gupta, Rituja Sinha, Basusdha Mahapatra, Shivam Pilania, Shubh Vaish, Sachin Shukla, Arpit Negi, Mustufa, Shivani Kumari, Aryan Khanna
 
 
 
